@@ -13,7 +13,7 @@ Please make sure to update the tests as appropriate.
 
 [Axios](https://github.com/axios/axios)
 
-[Tail Wind](https://tailwindcss.com/)
+[Tailwind CSS](https://tailwindcss.com/)
 
 ## License
 The LetUsChat is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
