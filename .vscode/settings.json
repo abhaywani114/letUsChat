@@ -1,0 +1,7 @@
+{
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+
+"html-css-class-completion.includeGlobPattern" : "public/css/*.{css,html}"
+}
